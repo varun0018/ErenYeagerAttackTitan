@@ -1,0 +1,104 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    h1 {
+        font-size: 60px;
+        color: #66BFBF;
+    }
+    
+    .line {
+        border: dotted;
+        color: black;
+        margin: 0 auto 0 auto;
+        width: 30%;
+    }
+    
+    .Dp {
+        width: 200px;
+        height: 200px;
+        border-radius: 100px;
+    }
+    
+    .top-container {
+        background-color: #EAF6F6;
+        position: relative;
+        text-align: center;
+        padding-top: 100px;
+    }
+    
+    .top-cloud {
+        position: absolute;
+        right: 250px;
+        bottom: 300px;
+    }
+    
+    .bottom-cloud {
+        position: absolute;
+        left: 60px;
+        bottom: 20px;
+    }
+    
+    .middle-container {
+        text-align: center;
+        padding: 100px;
+    }
+    
+    h2 {
+        font-size: 40px;
+        color: #66BFBF;
+        padding: 30px;
+    }
+    
+    p {
+        margin: 0 auto 0 auto;
+        color: #40514E;
+        font-size: 20px;
+        padding: 30px;
+    }
+    
+    .computer,
+    .chillies {
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        float: left;
+        margin-right: 40px;
+    }
+    
+    .bottom-container {
+        text-align: center;
+        background-color: #EAF6F6;
+        padding: 30px;
+    }
+    
+    a {
+        text-decoration: none;
+        color: #11999E;
+        padding: 10px;
+    }
+    
+    .bottom-container p {
+        font-size: 30px;
+    }
+    
+    .btn {
+        padding: 10px;
+        background-color: #66BFBF;
+        color: white;
+        border-radius: 25px;
+        width: 80px;
+    }
+    
+    .skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        line-height: 2;
+        text-align: left;
+    }
+    
+    .btn:hover {
+        background-color: #11999E;
+        color: black;
+    }
